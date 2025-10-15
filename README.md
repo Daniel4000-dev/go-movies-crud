@@ -1,1 +1,1 @@
-![flow chart](./public/go-movies-crud.png)
+![flow chart](.github.com/Daniel4000-dev/go-movies-crud/public/go-movies-crud.png)
