@@ -1,1 +1,1 @@
-![flow chart](./public/go-movies-crud.drawio)
+![flow chart](./public/go-movies-crud.png)
